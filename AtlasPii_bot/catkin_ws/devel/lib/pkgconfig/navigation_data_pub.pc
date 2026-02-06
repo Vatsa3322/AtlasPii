@@ -1,0 +1,8 @@
+prefix=/home/cruise/catkin_ws/devel
+
+Name: navigation_data_pub
+Description: Description of navigation_data_pub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

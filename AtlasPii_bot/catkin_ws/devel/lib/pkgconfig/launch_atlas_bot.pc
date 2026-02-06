@@ -1,0 +1,8 @@
+prefix=/home/cruise/catkin_ws/devel
+
+Name: launch_atlas_bot
+Description: Description of launch_atlas_bot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
